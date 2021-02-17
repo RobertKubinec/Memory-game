@@ -1,3 +1,5 @@
+package sk.kubinec;
+
 /**
  *
  * @author   «Róbert Kubinec»
@@ -6,7 +8,7 @@
 public class Hra
 {
     /**
-     * Konštruktor objektov triedy src.Hra.
+     * Konštruktor objektov triedy src.sk.kubinec.Hra.
      */
     public Hra()
     {

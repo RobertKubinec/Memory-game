@@ -1,3 +1,5 @@
+package sk.kubinec;
+
 public class JednoPolicko {
 
     private boolean skryte;

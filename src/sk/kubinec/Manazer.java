@@ -1,3 +1,5 @@
+package sk.kubinec;
+
 import java.util.ArrayList;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
@@ -132,14 +134,14 @@ public class Manazer {
     }
 
     /**
-     * src.Manazer bude spravovat dany objekt.
+     * src.sk.kubinec.Manazer bude spravovat dany objekt.
      */
     public void spravujObjekt(Object objekt) {
         this.spravovaneObjekty.add(objekt);
     }
 
     /**
-     * src.Manazer prestane spravovat dany objekt.
+     * src.sk.kubinec.Manazer prestane spravovat dany objekt.
      */
     public void prestanSpravovatObjekt(Object objekt) {
         int index = this.spravovaneObjekty.indexOf(objekt);

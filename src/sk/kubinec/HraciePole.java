@@ -1,4 +1,4 @@
-/**
+package sk.kubinec; /**
  * časť kódu prevzatá z cvičenia
  */
 import java.util.Random;//import balíčka, náhodné generovanie

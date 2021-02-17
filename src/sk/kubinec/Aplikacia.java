@@ -1,3 +1,5 @@
+package sk.kubinec;
+
 /**
  *
  * @author   «Róbert Kubinec»
